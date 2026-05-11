@@ -1,5 +1,3 @@
-# PRESENTACION
-
 Hola, soy Ivan Perez de Paz 👋
 
 Técnico de incidencias con 6 meses de experiencia en entorno empresarial, centrado en la resolución de problemas y
