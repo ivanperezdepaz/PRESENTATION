@@ -14,8 +14,12 @@ crecer en entornos técnicos exigentes.
 
 ## 🛠️ Tecnologias y Herramientas
 
-|-----|
-| Cisco Packet Tracer |
+1. REDES Y VIRTUALIZACIÓN
+i. Cisco Packet Tracer
+ii. GNS3
+iii. VMware
+iv. VirtualBox
+
 Redes y Virtualizacion
 Cisco Packet Tracer GNS3 VMware VirtualBox
 Sistemas Operativos
