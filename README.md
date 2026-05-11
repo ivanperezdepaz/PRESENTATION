@@ -53,7 +53,9 @@ crecer en entornos técnicos exigentes.
 
 ## 📁 Repositorios
 
-RepositorioDescripcionnetwork-labsLaboratorios de red con GNS3 y Cisco Packet Tracerccna-notesApuntes y recursos para la preparacion del CCNA (proximamente)itsm-docsDocumentacion tecnica y guias de sistemas (proximamente)
+### 👜 MY PRESENTATION (https://github.com/ivanperezdepaz/PRESENTATION)
+
+---
 
 🎓 Certificaciones
 
