@@ -14,25 +14,45 @@ crecer en entornos técnicos exigentes.
 
 ## 🛠️ Tecnologias y Herramientas
 
-### 🖥️ 1. REDES Y VIRTUALIZACIÓN
+### 🌐 1. REDES
 
 - Cisco Packet Tracer
 - GNS3
-- VMware
+
+### 🖥️ 2. Virtualización
 - VirtualBox
+- VMware
 
-Redes y Virtualizacion
-Cisco Packet Tracer GNS3 VMware VirtualBox
-Sistemas Operativos
-Windows Server Linux Server Red Hat Ubuntu
-Herramientas ITSM
-Salesforce Clarify Ivanti SIT Proactivanet Active Directory
-Seguridad y Cloud
-Docker Office 365 MySQL
-Programacion
-Python Bash JavaScript HTML CSS
+### 💻 3. Sistemas Operativos
+- Windows Server
+- Linux Server
+- Red Hat
+- Ubuntu
 
-📁 Repositorios
+### 🔐 4. Herramientas ITSM
+- Salesforce
+- Clarify
+- Ivanti
+- SIT
+- Proactivanet
+- Active Directory
+
+### 🔑 5. Seguridad y Cloud
+- Docker
+- Office 365
+- MySQL
+
+### 🧑‍💻 6. Programacion
+- Python
+- Bash
+- JavaScript
+- HTML
+- CSS
+
+---
+
+## 📁 Repositorios
+
 RepositorioDescripcionnetwork-labsLaboratorios de red con GNS3 y Cisco Packet Tracerccna-notesApuntes y recursos para la preparacion del CCNA (proximamente)itsm-docsDocumentacion tecnica y guias de sistemas (proximamente)
 
 🎓 Certificaciones
