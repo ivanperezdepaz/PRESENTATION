@@ -14,7 +14,6 @@ crecer en entornos técnicos exigentes.
 
 ## 🛠️ Tecnologias y Herramientas
 
-| Redes y Virtualización |
 |-----|
 | Cisco Packet Tracer |
 Redes y Virtualizacion
