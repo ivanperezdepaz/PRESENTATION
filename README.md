@@ -1,4 +1,4 @@
-Hola, soy Ivan Perez de Paz 👋
+# Hola, soy Ivan Perez de Paz 👋
 
 Técnico de incidencias con 6 meses de experiencia en entorno empresarial, centrado en la resolución de problemas y
 mantenimiento de la operativa diaria. Mis intereses se enfocan principalmente sobre el área de redes, donde he trabajado
