@@ -57,17 +57,15 @@ crecer en entornos técnicos exigentes.
 
 ---
 
-🎓 Certificaciones
+## 🎓 Certificaciones
 
-✅ Proactivanet Certified Technician ITSM - Bronze
-✅ Atencion al cliente a traves de medios interactivos o digitales (COMM114PO)
-🔄 CCNA / CompTIA Network+ (en preparacion)
+### ✅ Proactivanet Certified Technician ITSM - Bronze
+### ✅ Atencion al cliente a traves de medios interactivos o digitales (COMM114PO)
 
+---
 
-📬 Contacto
+## 📬 Contacto
 
-💼 LinkedIn: linkedin.com/in/ivan-perez-de-paz
+💼 LinkedIn: www.linkedin.com/in/ivanperezdepaz
 📧 Email: ivan.perez.paz2003@gmail.com
 📍 Madrid, España
-
-Abierto a nuevas oportunidades en redes, sistemas y ciberseguridad
