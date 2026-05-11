@@ -2,10 +2,12 @@
 
 Hola, soy Ivan Perez de Paz 👋
 
-Junior Systems & Network Technician | IT Support | Ciberseguridad
-Tecnico de sistemas y redes con formacion en SMR y ASIR, y experiencia real en entornos
-empresariales de helpdesk, redes y ciberseguridad. Actualmente trabajando en Zelenza (Madrid)
-como tecnico de incidencias, y preparando certificaciones orientadas a redes.
+Técnico de incidencias con 6 meses de experiencia en entorno empresarial, centrado en la resolución de problemas y
+mantenimiento de la operativa diaria. Mis intereses se enfocan principalmente sobre el área de redes, donde he trabajado
+con herramientas virtuales que despertaron mi interés por este campo.
+Actualmente estoy formándome y preparando certificaciones orientadas a redes para desarrollar una base sólida y
+avanzar profesionalmente en esta especialidad. Busco seguir aprendiendo, aportar valor desde el primer momento y
+crecer en entornos técnicos exigentes.
 
 🛠️ Tecnologias y Herramientas
 Redes y Virtualizacion
