@@ -10,7 +10,7 @@ Actualmente estoy formándome y preparando certificaciones orientadas a redes pa
 avanzar profesionalmente en esta especialidad. Busco seguir aprendiendo, aportar valor desde el primer momento y
 crecer en entornos técnicos exigentes.
 
-🛠️ Tecnologias y Herramientas
+## 🛠️ Tecnologias y Herramientas
 Redes y Virtualizacion
 Cisco Packet Tracer GNS3 VMware VirtualBox
 Sistemas Operativos
