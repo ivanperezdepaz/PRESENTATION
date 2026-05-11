@@ -67,5 +67,7 @@ crecer en entornos técnicos exigentes.
 ## 📬 Contacto
 
 💼 LinkedIn: www.linkedin.com/in/ivanperezdepaz
+
 📧 Email: ivan.perez.paz2003@gmail.com
+
 📍 Madrid, España
